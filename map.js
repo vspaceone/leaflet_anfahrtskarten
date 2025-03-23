@@ -63,7 +63,7 @@ var door = L.marker ([48.0679484, 8.4445526], {icon: doorIcon}).addTo(map).bindP
 var door2 = L.marker ([48.06779, 8.44423], {icon: doorIcon}).addTo(map).bindPopup("Die Tür zum vspace");
 var door3 = L.marker ([48.06772, 8.44365], {icon: doorIcon}).addTo(map).bindPopup("Tor 8.4 vom Technologiepark VS, unsere Schlüssel funktionieren auch hier")
 var parking = L.marker ([48.068018, 8.445447], {icon: parkingIcon}).addTo(map).bindPopup("Hier kann ein Auto abgestellt werden");
-var vspaceMarker = L.marker ([48.0677192, 8.4443080], {icon: vspaceLogo}).addTo(map).bindPopup("Das ist unser Logo :3");
+var vspaceMarker = L.marker ([48.0677192, 8.4443080], {icon: vspaceLogo}).addTo(map).bindPopup("vspace.one");
 
 // polylines
 
